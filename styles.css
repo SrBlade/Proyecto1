@@ -31,7 +31,7 @@
 
 .Main {
     padding: 100px;
-    background-color: #375fad;
+    background-color: #1b53ac;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -42,7 +42,7 @@
 .Main li{
     list-style: none;
     display: flex;
-   background-color: #6ba4fd;
+   background-color: #164ca2;
     border-radius: 5px;
     border-style: groove;
     border-color: black;
@@ -78,7 +78,7 @@
 
 
 .Titulo3 {
-    background-color: #e5d9ed !important;
+    background-color: #751ab3 !important;
     justify-content: center;
     text-align: center;
     height: 10%;
@@ -97,7 +97,7 @@
     justify-content: center;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 600px) 
 
     {
        width: 50%;
